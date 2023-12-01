@@ -1,0 +1,3 @@
+Boston Red Sox,5-3
+Baltimore Orioles,4-4
+Toronto Blue Jays,2-6
